@@ -43,6 +43,4 @@ An interactive analytics dashboard built with Python, Streamlit, Pandas, and Plo
 
 The project uses the Online Retail II dataset. Customer IDs are missing for some transactions, and unusual quantities and transaction adjustments require careful interpretation. Revenue metrics are based on the project's defined sales filters and should not automatically be interpreted as audited accounting revenue.
 
-## Author
 
-Add your name and GitHub profile link here.
