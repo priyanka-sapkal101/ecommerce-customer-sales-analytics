@@ -1,0 +1,31 @@
+
+# Python
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+data/*.csv
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private configuration
+.streamlit/secrets.toml
+.env
+
+# Local datasets and databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+data/retail_cleaned_for_sql.csv
